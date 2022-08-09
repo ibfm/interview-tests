@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5WDd0E1lq850B4E4TZXYlDPgptHiBrOma1/ouYH31z+n3GgJhf16gJR86rliO7e9bnF9iDIj8mJFTnIPBCFdg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ibfm\\interview-tests\\PlusMinus\\PlusMinusProblem\\PlusMinusProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iberê Malheiros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
